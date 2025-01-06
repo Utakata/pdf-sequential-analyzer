@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.env
+venv/
+
+# Project specific
+output/
+*.pdf
+*.json
+!.env.example
